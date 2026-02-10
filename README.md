@@ -1,5 +1,10 @@
 ## Hi there 👋
-
+Cytometry in R - Starter Questions
+Location: London
+My Favorite Fluorophore: Zombie-NIR
+Previous Coding Experience: attended a short course in R
+🌱 What I Hope to Get From This Course: A faster way to match FlowSOM clusters to their likely cell type.
+⚡ Fun fact: I’m the friend who brings snacks ‘just in case.
 <!--
 **AM2367280/AM2367280** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
